@@ -1,0 +1,26 @@
+[project]
+name = "Text2Me"
+version = "0.0.1"
+authors = [
+  { name="CHUA某人", email="chua-x@outlook.com" },
+]
+description = "text2me ——通过Twilio发消息给自己手机"
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers=[
+        "Development Status :: 3 - Alpha",
+        "Programming Language :: Python",
+        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3 :: Only",
+        "License :: OSI Approved :: MIT License",
+        "Natural Language :: Chinese (Simplified)",
+        "Natural Language :: English",
+        "Operating System :: Unix",
+        "Operating System :: POSIX :: Linux",
+        "Operating System :: MacOS :: MacOS X",
+        "Operating System :: Microsoft :: Windows",
+    ]
+
+[project.urls]
+"Homepage" = "https://github.com/CHUA-X/Text2Me"
+"Bug Tracker" = "https://github.com/CHUA-X/Text2Me/issues"
